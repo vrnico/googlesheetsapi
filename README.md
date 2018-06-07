@@ -46,7 +46,9 @@ npm start
 * create and sync spreadsheet
 ![screenshot](https://i.imgur.com/TvyV4m3.gif "create/sync screenshot")
 
-* [create Google Sheets API credentials](https://docs.google.com/spreadsheets/u/0/)
+* [Check out your new spread sheet!](https://docs.google.com/spreadsheets/u/0/)
+
+![screenshot](https://i.imgur.com/luDSqqO.pngf "google sheetsS")
 
 
 
