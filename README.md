@@ -10,7 +10,7 @@ Track your finances using a sleek webapp and Google Sheets!
 
 ## Installation
 
-#### this setup assumes previous installation of npm
+#### this setup assumes previous installation of npm and access to a Google Account
 
 
 
@@ -35,6 +35,18 @@ run the project
 ```
 npm start
 ```
+
+## Using the APP
+
+* Sign in to google!
+
+* create purchase orders
+![screenshot](https://i.imgur.com/8Bk2ZBj.gif "create purchase screenshot")
+
+* create and sync spreadsheet
+![screenshot](https://i.imgur.com/TvyV4m3.gif "create/sync screenshot")
+
+* [create Google Sheets API credentials](https://docs.google.com/spreadsheets/u/0/)
 
 
 
